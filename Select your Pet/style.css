@@ -1,0 +1,12 @@
+
+.heading {
+    font-family: "Roboto";
+    font-size: 30px;
+    text-align: center;
+    font-weight: 700;
+}
+
+.bg-container {
+    border-radius: 36px;
+    background-color: grey;
+}
